@@ -1,0 +1,9 @@
+twitter 
+    api_key = 'YSzk0soKZC6qFEZ42FFVFC6uK'
+    api_secret_key = 'SZZ0NqfShxfbIF8PVdjCH8eVvgSJCBHIuDV3UK0fs4GExvrWHl'
+    access_token = '1818153188660219904-RxnvetQtXlrDZdOM2BcVLW9ZqHZSWD'
+    access_token_secret = 'ke5chtQUipX777PejajhydlhL9Ghkg9ZtysuiMWMJ9Mtr'
+    bearer_token='AAAAAAAAAAAAAAAAAAAAAPV1wQEAAAAAtE9ogWE4ExmQyIjpGxSJ6lpHuBA%3D3BFaQAB84gX8WwnKqth3gSgt9duvb5wFZkKUWXkXlf95TPlAQE'
+
+newsapi = '10c75a9bf29d43fa8b9dba385d25090c'
+gnewsapi = 'bf61697e90eeab1eec4489b3213f7ead'
